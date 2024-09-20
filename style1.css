@@ -1,0 +1,63 @@
+body{
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffcf79;
+    font-weight: normal;
+    font-size: 25px;
+}
+h1{
+  
+    text-decoration: underline;
+    font-size: 150%;
+}
+h2{
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+p.par1{
+    color: blue;
+    font-size: 25px;
+}
+
+p.par2{
+    color: purple;
+    font-size: 25px;
+}
+
+p.paragraph{
+    color: purple;
+    font-size: 25px;
+    line-height: 1.3em;
+    background-color: #e5e4df;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-image: url(cloud.jpeg);
+}
+#par4homepage{
+    color: black;
+    font-size: 25px;
+    line-height: 1.3em;
+    background-color: #e5e4df;
+    padding: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin: 20px;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding-left: 40px;
+}
+.imageC{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    background-color: silver;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
